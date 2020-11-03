@@ -5,7 +5,7 @@
 
 I am recent post graduate looking for opportunities and collabaration in projects related to django rest api and angular.
 - 🔭 I’m currently working on angular Rxjs and angular styling with sass and less.
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using Tensorflow.
+- 🌱 I’m currently learning Computer Docker wrapper on django/angular.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 - 💬 Ask me about **I'm fullstack deveplor with python(Django REST API) and angular 8 material with sass and less styling**
 - 📫 How to reach me **adityabhalsod99@gmail.com**
