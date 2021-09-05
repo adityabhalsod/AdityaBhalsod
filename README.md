@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaBhalsod" alt="AdityaBhalsod" /> </p>
 
-I am recent post graduate looking for opportunities and collabaration in projects related to django rest api, angular, flutter.
+I am recent post graduate looking for opportunities and collabaration in projects related to django rest api, angular and flutter.
 - 🔭 I’m currently working as backend developer in python technology.
 - 🌱 I’m currently learning Docker wrapper on django/angular.
 - 🤝 I’m looking to collaborate on new technology. 
