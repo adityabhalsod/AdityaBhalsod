@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaBhalsod" alt="AdityaBhalsod" /> </p>
 
-I am recent post graduate looking for opportunities and collabaration in projects related to django rest api and angular.
-- 🔭 I’m currently working on angular Rxjs and angular styling with sass and less.
+I am recent post graduate looking for opportunities and collabaration in projects related to django rest api, angular, flutter.
+- 🔭 I’m currently working as backend developer in python technology.
 - 🌱 I’m currently learning Docker wrapper on django/angular.
 - 🤝 I’m looking to collaborate on new technology. 
-- 💬 Ask me about **I'm fullstack deveplor with python(Django REST API) and angular 8 material with sass and less styling**
+- 💬 Ask me about **I'm fullstack deveplor with python(Backend API), angular 8 (web) and flutter (Mobile)**
 - 📫 How to reach me **adityabhalsod99@gmail.com**
 - ⚡ Fun fact **Pepsi**
 
