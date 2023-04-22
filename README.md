@@ -11,7 +11,7 @@ I am recent post graduate looking for opportunities and collabaration in project
 - 📫 How to reach me **adityabhalsod99@gmail.com**
 - ⚡ Fun fact **Pepsi**
 
-<a href="https://app.daily.dev/AdityaBhalsod"><img src="https://api.daily.dev/devcards/5742e7734936468d810ee9c25fc38e90.png?r=0ki" width="400" alt="Aditya's Dev Card"/></a>
+<a href="https://app.daily.dev/AdityaBhalsod"><img src="https://api.daily.dev/devcards/5742e7734936468d810ee9c25fc38e90.png?r=asx" width="400" alt="Aditya's Dev Card"/></a>
 
 <p align="center">
 	<a href="https://twitter.com/Aditya__Bhalsod"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
