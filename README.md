@@ -7,7 +7,7 @@ I am recent post graduate looking for opportunities and collabaration in project
 - 🔭 I’m currently working as backend developer in python technology.
 - 🌱 I’m currently learning Docker wrapper on django/angular.
 - 🤝 I’m looking to collaborate on new technology. 
-- 💬 Ask me about **Backend developer via Python/Node.Js Framework priority >> Django/Flask/DjangoNinja/FastAPI/Express**
+- 💬 Ask me about **Backend developer via Python Framework priority >> Django/Flask/FastAPI**
 - 📫 How to reach me **adityabhalsod99@gmail.com**
 - ⚡ Fun fact **Pepsi**
 
