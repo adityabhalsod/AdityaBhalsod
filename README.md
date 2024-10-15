@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhalsod</h1>
 <h3 align="center">A passionate frontend+backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaBhalsod" alt="AdityaBhalsod" /> </p>
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=AdityaBhalsod" alt="AdityaBhalsod" /> 
+	<a src="https://www.linkedin.com/in/adityabhalsod/" target="_blank">
+            <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityabhalsod/" alt="linkedin"/>
+	</a>
+	<a href="https://www.facebook.com/AdityaBhalsod007/" target="_blank">
+	    <img src="https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AdityaBhalsod007/" alt="facebook"/>
+	</a>
+	<a href="https://www.instagram.com/aditya_bhalsod/" target="_blank">
+	    <img src="https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aditya_bhalsod/" alt="instagram"/>
+	</a>
+</p>
+
+
 
 I am recent post graduate looking for opportunities and collabaration in projects related to django rest api, angular and flutter.
 - 🔭 I’m currently working as backend developer in python technology.
