@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhalsod</h1>
-<h3 align="center">A passionate frontend+backend developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=AdityaBhalsod" alt="AdityaBhalsod" /> 
@@ -20,9 +20,8 @@ I am recent post graduate looking for opportunities and collabaration in project
 - 🔭 I’m currently working as backend developer in python technology.
 - 🌱 I’m currently learning Docker wrapper on django/angular.
 - 🤝 I’m looking to collaborate on new technology. 
-- 💬 Ask me about **Backend developer via Python Framework priority >> Django/Flask/FastAPI**
-- 📫 How to reach me **adityabhalsod99@gmail.com**
-- ⚡ Fun fact **Pepsi**
+- 💬 Ask me about **Backend developer via Python Framework priority >> FastAPI/Flask/Django**
+- 📫 How to reach me **<a href="mailto:adityabhalsod99@gmail.com">adityabhalsod99@gmail.com</a>**
 
 <a href="https://app.daily.dev/AdityaBhalsod"><img src="https://api.daily.dev/devcards/5742e7734936468d810ee9c25fc38e90.png?r=asx" width="400" alt="Aditya's Dev Card"/></a>
 
