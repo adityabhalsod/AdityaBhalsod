@@ -20,7 +20,7 @@
 - 🔭 Currently working on backend solutions with Python (Flask, FastAPI, Django) and exploring DevOps best practices.
 - 💡 Open to collaboration on innovative projects — especially in Python, Django REST API, Angular, or Flutter.
 - 🏅 Passionate about learning new technologies, system-level programming, and solving complex problems.
-- 📫 **Reach me anytime:** [adityabhalsod99@gmail.com](mailto:adityabhalsod99@gmail.com)
+- 📫 **Reach me anytime:** [admin@karmasync.dev](mailto:admin@karmasync.dev) or [adityabhalsod99@gmail.com](mailto:adityabhalsod99@gmail.com).
 
 ---
 
