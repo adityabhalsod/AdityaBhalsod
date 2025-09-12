@@ -59,11 +59,11 @@
 
 ### 🔥 Let's Connect & Collaborate
 
-- 📫 **Email:** adityabhalsod99@gmail.com
+- 📫 **Email:** admin@karmasync.dev | adityabhalsod99@gmail.com
 - 👔 [LinkedIn](https://www.linkedin.com/in/adityabhalsod/)
 - 🐦 [Twitter (X)](https://x.com/Aditya__Bhalsod)
 - 💼 [Medium](https://medium.com/@adityabhalsod99)
-- 💻 [Portfolio](#)
+- 💻 [Portfolio](https://absoftweb.dev)
 
 ---
 
