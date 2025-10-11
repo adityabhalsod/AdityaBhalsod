@@ -1,70 +1,77 @@
+<!-- 
+  ✨ Optimized for: Solo Developer | Web & Mobile Solutions for Global Startups
+  🌍 Target Clients: USA, UK, Australia, UAE
+  🔗 Website: https://absoftweb.dev
+-->
+
 <h1 align="center">Hi 👋, I'm Aditya Bhalsod</h1>
-<h3 align="center">🚀 Senior Python Developer | Cloud & Automation Expert</h3>
+<h3 align="center">Web & Mobile Developer for Startups in the USA, UK & UAE</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/adityabhalsod/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/Aditya__Bhalsod"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/aditya_bhalsod/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/AdityaBhalsod007/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://medium.com/@adityabhalsod99"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white" /></a>
+  I help founders build <strong>scalable web & mobile apps</strong> — from idea to launch — using modern tech like <strong>React, Flutter, Python, and AI</strong>.<br>
+  <em>Deliver MVPs in 4–6 weeks. 60% lower cost than local agencies.</em>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaBhalsod&style=flat-square" alt="AdityaBhalsod" />
+  <a href="https://absoftweb.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-absoftweb.dev-0077B5?style=for-the-badge&logo=web" alt="Website"/>
+  </a>
+  <a href="https://absoftweb.dev/book-a-call" target="_blank">
+    <a href="https://absoftweb.dev/book-a-call" target="_blank">
+      <img src="https://img.shields.io/badge/Book_a_Free_Call-15_Minutes-FF6F00?style=for-the-badge&logo=zoom" alt="Book a Call" />
+    </a>
+  </a>
+  <a href="mailto:hello@absoftweb.dev">
+    <img src="https://img.shields.io/badge/Email-admin@karmasync.dev-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 What I Offer
 
-- 🏆 **Senior Python Developer** experienced in building scalable REST APIs, microservices, and cloud-based solutions.
-- 🌎 I love automating workflows and deploying systems on AWS, Docker, and CI/CD pipelines.
-- 🔭 Currently working on backend solutions with Python (Flask, FastAPI, Django) and exploring DevOps best practices.
-- 💡 Open to collaboration on innovative projects — especially in Python, Django REST API, Angular, or Flutter.
-- 🏅 Passionate about learning new technologies, system-level programming, and solving complex problems.
-- 📫 **Reach me anytime:** [admin@karmasync.dev](mailto:admin@karmasync.dev) or [adityabhalsod99@gmail.com](mailto:adityabhalsod99@gmail.com).
+I partner with **startups and SMEs** to build:
+- **AI-Powered Web Apps** (React + Python + LLM APIs)
+- **Cross-Platform Mobile Apps** (Flutter for iOS & Android)
+- **Cloud-Native Solutions** (AWS, Firebase, Docker, CI/CD)
+- **Automation Tools** (Python scripts, data pipelines, internal dashboards)
+
+✅ Full lifecycle: idea → design → development → deployment → support  
+✅ Clean, documented code + full ownership  
+✅ Communication in your time zone (US/UK/AU/UAE friendly)
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-109989?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📬 Let’s Build Something Amazing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaBhalsod&show_icons=true&theme=default" alt="AdityaBhalsod" />
-</p>
+If you’re a **founder, product lead, or startup CTO** looking to:
+- Launch an MVP fast
+- Add AI to your product
+- Replace an unreliable dev team
+- Reduce tech costs without losing quality
 
----
+👉 **Book a free 15-minute consultation**:  
+🔗 [https://absoftweb.dev/book-a-call](https://absoftweb.dev/book-a-call)
 
-### 🚩 Featured Dev Card
-
-<p align="center">
-  <a href="https://app.daily.dev/AdityaBhalsod"><img src="https://api.daily.dev/devcards/5742e7734936468d810ee9c25fc38e90.png?r=asx" width="300" alt="Aditya's Dev Card"/></a>
-</p>
-
----
-
-### 🔥 Let's Connect & Collaborate
-
-- 📫 **Email:** admin@karmasync.dev | adityabhalsod99@gmail.com
-- 👔 [LinkedIn](https://www.linkedin.com/in/adityabhalsod/)
-- 🐦 [Twitter (X)](https://x.com/Aditya__Bhalsod)
-- 💻 [Portfolio](https://absoftweb.dev)
+No sales pitch. Just practical advice.
 
 ---
 
-> _“Transforming great ideas into robust software solutions!”_
-
+### 🌍 Based in India • Serving Clients Worldwide  
+🇺🇸 USA  |  🇬🇧 UK  |  🇦🇺 Australia  |  🇦🇪 UAE/Saudi
