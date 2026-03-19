@@ -31,7 +31,7 @@
 I partner with **startups and SMEs** to build:
 - **AI-Powered Web Apps** (React + Python + LLM APIs)
 - **Cross-Platform Mobile Apps** (Flutter & React Native for iOS & Android)
-- **Native Android Apps** (Kotlin & Java — high-performance, platform-optimized)
+- **Native Android Apps** (Java — high-performance, platform-optimized)
 - **Cloud-Native Solutions** (AWS, Firebase, Docker, CI/CD)
 - **Automation Tools** (Python scripts, data pipelines, internal dashboards)
 
