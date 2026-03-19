@@ -46,7 +46,7 @@ I partner with **startups and SMEs** to build:
 | Approach | Technology | Best For |
 |----------|-----------|----------|
 | **Cross-Platform** | Flutter, React Native | Launch on iOS & Android simultaneously with a single codebase |
-| **Native Android** | Kotlin, Java | Maximum performance, deep platform integration, hardware-level access |
+| **Native Android** |  Java | Maximum performance, deep platform integration, hardware-level access |
 | **Hybrid Strategy** | React Native + Native Modules | Shared UI with native performance where it matters |
 
 Whether you need a **rapid MVP** with cross-platform reach or a **polished native experience** for Android, I pick the right tool for your product — not the other way around.
