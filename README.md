@@ -8,7 +8,7 @@
 <h3 align="center">Web & Mobile Developer for Startups in the USA, UK & UAE</h3>
 
 <p align="center">
-  I help founders build <strong>scalable web & mobile apps</strong> — from idea to launch — using modern tech like <strong>React, React Native, Flutter, Kotlin, Java, Python, and AI</strong>.<br>
+  I help founders build <strong>scalable web & mobile apps</strong> — from idea to launch — using modern tech like <strong>React, React Native, Flutter, Java, Python, and AI</strong>.<br>
   <em>Deliver MVPs in 4–6 weeks. 60% lower cost than local agencies.</em>
 </p>
 
@@ -66,7 +66,6 @@ Whether you need a **rapid MVP** with cross-platform reach or a **polished nativ
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
 </p>
