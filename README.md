@@ -8,7 +8,7 @@
 <h3 align="center">Web & Mobile Developer for Startups in the USA, UK & UAE</h3>
 
 <p align="center">
-  I help founders build <strong>scalable web & mobile apps</strong> — from idea to launch — using modern tech like <strong>React, React Native, Flutter, Java, Python, and AI</strong>.<br>
+  I help founders build <strong>scalable web & mobile apps</strong> - from idea to launch - using modern tech like <strong>React, React Native, Flutter, Java, Python, and AI</strong>.<br>
   <em>Deliver MVPs in 4–6 weeks. 60% lower cost than local agencies.</em>
 </p>
 
@@ -31,7 +31,7 @@
 I partner with **startups and SMEs** to build:
 - **AI-Powered Web Apps** (React + Python + LLM APIs)
 - **Cross-Platform Mobile Apps** (Flutter & React Native for iOS & Android)
-- **Native Android Apps** (Java — high-performance, platform-optimized)
+- **Native Android Apps** (Java - high-performance, platform-optimized)
 - **Cloud-Native Solutions** (AWS, Firebase, Docker, CI/CD)
 - **Automation Tools** (Python scripts, data pipelines, internal dashboards)
 
@@ -49,7 +49,7 @@ I partner with **startups and SMEs** to build:
 | **Native Android** |  Java | Maximum performance, deep platform integration, hardware-level access |
 | **Hybrid Strategy** | React Native + Native Modules | Shared UI with native performance where it matters |
 
-Whether you need a **rapid MVP** with cross-platform reach or a **polished native experience** for Android, I pick the right tool for your product — not the other way around.
+Whether you need a **rapid MVP** with cross-platform reach or a **polished native experience** for Android, I pick the right tool for your product - not the other way around.
 
 ---
 
